@@ -20,7 +20,7 @@ export default function Footer() {
         <ul>
           <li>
             <a
-              href="https://www.youtube.com/c/jamesqquick"
+              href="https://www.youtube.com/"
               className="youtube social"
             >
               <FontAwesomeIcon icon={faYoutube} size="2x" />
@@ -28,7 +28,7 @@ export default function Footer() {
           </li>
           <li>
             <a
-              href="https://www.facebook.com/learnbuildteach/"
+              href="https://www.facebook.com/"
               className="facebook social"
             >
               <FontAwesomeIcon icon={faFacebook} size="2x" />
@@ -36,7 +36,7 @@ export default function Footer() {
           </li>
           <li>
             <a
-              href="https://www.twitter.com/jamesqquick"
+              href="https://www.twitter.com/"
               className="twitter social"
             >
               <FontAwesomeIcon icon={faTwitter} size="2x" />
@@ -44,7 +44,7 @@ export default function Footer() {
           </li>
           <li>
             <a
-              href="https://www.instagram.com/learnbuildteach"
+              href="https://www.instagram.com/"
               className="instagram social"
             >
               <FontAwesomeIcon icon={faInstagram} size="2x" />
@@ -59,5 +59,5 @@ export default function Footer() {
   );
 }
 
-//credit to james
-//the source linked in social media links
+//credit to FontAwesome
+
