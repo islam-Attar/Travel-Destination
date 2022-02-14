@@ -1,13 +1,15 @@
-import Header from "../header/Header"
-import Tour from "../tour/Tour"
-import Footer from "../footer/Footer"
+import Header from "../header/Header";
+import Tours from "../tours/Tours";
+import Footer from "../footer/Footer";
 
 export default function Home(props) {
-    return (<>
+  return (
+    <>
+      <div>
         <Header />
-        <Tour data2={props.data} />
+        <Tours data2={props.data} />
         <Footer />
+      </div>
     </>
-    )
-
+  );
 }

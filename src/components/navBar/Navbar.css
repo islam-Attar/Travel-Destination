@@ -1,0 +1,7 @@
+#headNav{
+  text-decoration: none;
+  color: black;
+}
+#headNav:hover {
+background-color: #1597E5;
+}
