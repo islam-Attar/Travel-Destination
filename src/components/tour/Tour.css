@@ -1,0 +1,17 @@
+.tourDiv {
+  display: "flex";
+  flex-wrap: wrap;
+  align-items: "flex-start";
+  justify-content: "flex-start";
+}
+
+.elementsDiv {
+  display: "flex";
+  flex-direction: column;
+  justify-content: "center";
+  align-items: "center";
+  margin: "5px";
+  background-color: "black";
+  color: "white";
+  border-radius: "15%";
+}
